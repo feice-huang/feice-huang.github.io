@@ -11,4 +11,4 @@ I'm a first year master student from [Shenzhen International Graduate School](ht
 
 I am advised by [Prof. Wang Haoqian](https://www.sigs.tsinghua.edu.cn/whq/main.htm) of Future Media Lab from Tsinghua SIGS. 
 
-Contact me: [Email](mailto:hfc24@mails.tsinghua.edu.cn) / [Github](https://github.com/feice-huang)
+Contact me: hfc24@mails.tsinghua.edu.cn / https://github.com/feice-huang
