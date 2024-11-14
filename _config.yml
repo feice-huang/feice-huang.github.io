@@ -24,7 +24,7 @@ author:
   avatar           : "avatar.png"
   name             : "Huang Feice"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # ""
   location         : "Shenzhen, China"
   employer         : "Tsinghua University"
   uri              : "https://feice-huang.github.io/" # URL
