@@ -16,12 +16,12 @@ Education
 
 Study experience
 ======
-* Research on Sparse View 3D Reconstruction Based on Neural Radiance Fields
+**Research on Sparse View 3D Reconstruction Based on Neural Radiance Fields**
 - Introduced prior knowledge and creative reasoning capabilities into sparse view reconstruction technology through a diffusion model, enabling object reconstruction with only three input images.
 - Analyzed the mechanism behind the degradation phenomenon of 3D reconstruction from sparse views, and proposed density peak regularization to alleviate the floating object effect.
 - Proposed a dataset for 3D reconstruction, Kun-100, which contains 111 real images of the target object captured under the same lighting conditions.
 
-* Hybrid Event-Enhanced Image De-occlusion
+**Hybrid Event-Enhanced Image De-occlusion**
 - Authors: Ning Gao, Feice Huang, Lei Zhang, Xiaoyan Luo, Yue Deng  
 - Published in CITA 2023  
 - Proposed an innovative method based on the fusion of event streams and image frames, significantly improving the efficiency and performance of dense foreground occlusion removal and target reconstruction by introducing a spiking neural network encoder, Time Channel Attention (TCA) blocks, and General Repair Blocks (GRB).  
